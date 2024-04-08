@@ -15,5 +15,7 @@ git push -u origin main
 git branch -M bug-fix
 git add .
 git commit -m "Correção do fechamento de View"
-
+git add .
+git commit -m "Correção teclado, operações e delete"
+git push -u origin bug-fix
 
