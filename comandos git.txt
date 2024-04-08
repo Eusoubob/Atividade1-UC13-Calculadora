@@ -1,0 +1,19 @@
+Comando digitados
+
+- Comando de versionamento do Git:
+
+git init
+git add .
+git commit -m "Projeto inicial"
+git add .
+git commit -m "Projeto atualizado para versão mais recente"
+
+git branch -M main
+git remote add origin https://github.com/Eusoubob/Atividade1-UC13-Calculadora.git
+git push -u origin main
+
+git branch -M bug-fix
+git add .
+git commit -m "Correção do fechamento de View"
+
+
